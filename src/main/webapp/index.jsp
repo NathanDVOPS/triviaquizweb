@@ -60,7 +60,7 @@ footer {
 	top:1px;
 }
 </style>
-<title>Insert title here</title>
+<title>Trivia Quiz</title>
 </head>
 <body>
 <%@ page import="java.io.PrintWriter" %>
