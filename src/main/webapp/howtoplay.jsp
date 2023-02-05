@@ -67,7 +67,7 @@ footer {
   color: black;
 }
 </style>
-<title>Trivia Quiz</title>
+<title>Trivia Quiz | How To Play</title>
 </head>
 <body>
 <%@ page import="java.io.PrintWriter" %>
